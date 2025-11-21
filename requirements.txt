@@ -1,0 +1,5 @@
+streamlit
+openai
+chromadb==0.4.22
+numpy
+python-dotenv
