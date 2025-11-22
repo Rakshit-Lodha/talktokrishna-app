@@ -1,4 +1,4 @@
-# 🕉️ Talk to Krishna
+# Talk to Krishna
 
 An AI-powered spiritual counselor that provides guidance from the Bhagavad Gita for modern life problems. Built to help people navigate heartbreak, career stress, and life's challenges through ancient wisdom.
 
@@ -203,7 +203,7 @@ def ask_krishna(query):
 
 -------
 
-## 💬 Contact
+## Contact
 
 **Built by:** Rakshit Lodha
 
